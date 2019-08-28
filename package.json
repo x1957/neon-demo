@@ -1,0 +1,14 @@
+{
+  "name": "thread-count",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "lib/index.js",
+  "author": "Yuhao Fang <fangyuhao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.3.1"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
