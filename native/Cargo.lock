@@ -99,6 +99,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 name = "thread-count"
 version = "0.1.0"
 dependencies = [
+ "lazy_static 1.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "neon 0.3.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "neon-build 0.3.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "num_cpus 1.10.1 (registry+https://github.com/rust-lang/crates.io-index)",
