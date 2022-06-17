@@ -15,6 +15,6 @@ crate-type = ["cdylib"]
 neon-build = "0.3.1"
 
 [dependencies]
-neon = "0.3.1"
+neon = "0.10.1"
 num_cpus = "1.10.1"
 lazy_static = "1.4.0"
